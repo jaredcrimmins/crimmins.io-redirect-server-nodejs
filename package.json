@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/jaredcrimmins/crimmins.io-redirect-server-nodejs/issues"
   },
-  "homepage": "https://github.com/jaredcrimmins/crimmins.io-redirect-server-nodejs#readme"
+  "homepage": "https://github.com/jaredcrimmins/crimmins.io-redirect-server-nodejs#readme",
+  "devDependencies": {
+    "@commitlint/cli": "^16.0.2",
+    "@commitlint/config-conventional": "^16.0.0"
+  }
 }
