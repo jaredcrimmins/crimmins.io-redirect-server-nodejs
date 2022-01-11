@@ -4,6 +4,7 @@
 
 # Directories
 !.husky/
+!src/
 
 # Files
 !.commitlintrc.json
