@@ -3,7 +3,6 @@
   "version": "0.0.0",
   "description": "A server that redirects traffic from crimmins.io to jared.crimmins.io.",
   "private": true,
-  "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "lint": "gts lint",
