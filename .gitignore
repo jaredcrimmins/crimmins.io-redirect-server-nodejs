@@ -2,6 +2,9 @@
 # whitelisted.
 /*
 
+# Directories
+!.husky/
+
 # Files
 !.commitlintrc.json
 !.gitignore
