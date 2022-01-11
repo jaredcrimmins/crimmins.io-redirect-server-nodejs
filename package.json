@@ -1,0 +1,19 @@
+{
+  "name": "crimmins.io-redirect-server",
+  "version": "0.0.0",
+  "description": "A server that redirects traffic from crimmins.io to jared.crimmins.io.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jaredcrimmins/crimmins.io-redirect-server-nodejs.git"
+  },
+  "author": "Jared Crimmins",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jaredcrimmins/crimmins.io-redirect-server-nodejs/issues"
+  },
+  "homepage": "https://github.com/jaredcrimmins/crimmins.io-redirect-server-nodejs#readme"
+}
