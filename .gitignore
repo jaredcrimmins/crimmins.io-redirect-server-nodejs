@@ -3,6 +3,7 @@
 /*
 
 # Files
+!.commitlintrc.json
 !.gitignore
 !package-lock.json
 !package.json
