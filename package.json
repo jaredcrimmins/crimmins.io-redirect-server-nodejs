@@ -10,7 +10,9 @@
     "compile": "tsc",
     "fix": "gts fix",
     "pretest": "npm run compile",
-    "posttest": "npm run lint"
+    "posttest": "npm run lint",
+    "gcp-build": "npm run compile",
+    "start": "node dist/server"
   },
   "repository": {
     "type": "git",
