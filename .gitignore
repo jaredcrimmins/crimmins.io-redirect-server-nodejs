@@ -11,6 +11,7 @@
 !.editorconfig
 !.eslintignore
 !.eslintrc.json
+!.gcloudignore
 !.gitignore
 !.prettierrc.js
 !app.yaml
